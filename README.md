@@ -1,1 +1,1 @@
-# CatalogBootcoin
+# BPF-CatalogCurrency-Service

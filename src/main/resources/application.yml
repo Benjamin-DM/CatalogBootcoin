@@ -1,0 +1,6 @@
+server:
+  port: 8100
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://nttdata:nttdata2022@mscustomer.vqoh1.mongodb.net/MongoProject?retryWrites=true&w=majority
